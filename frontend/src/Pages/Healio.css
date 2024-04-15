@@ -1,0 +1,17 @@
+.TextBox{
+    margin-top: 50px;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    z-index: 5;
+}
+.react-scroll-to-bottom--css-nzczm-1n7m0yu{
+    margin-top: 50px;
+}
+
+.iframe{
+    margin-top: 80px;
+}
